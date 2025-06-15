@@ -1,5 +1,4 @@
 # Landing-page
-# Digital-clock
 A clean, modern React app demonstrating client-side routing using react-router-dom, complete with a dynamic Navbar, a user page with route parameters, and styled using custom CSS. This project is great for understanding how React routes work — including handling dynamic segments like /user/:username.
 
 🔗 **Live preview:** [here](https://landing-page-phi-seven-62.vercel.app/)
